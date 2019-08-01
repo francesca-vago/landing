@@ -1,0 +1,19 @@
+.social-icons {
+  width: 30%;
+  margin: auto;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.social-icons > li > a {
+  color: #fff;
+  width: 100px;
+  height: 100px;
+}
+
+.social-icons > li > a:hover {
+  color: #CCCCCC;
+}

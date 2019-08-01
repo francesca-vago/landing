@@ -1,0 +1,28 @@
+.banner-container {
+  width: 50%;
+  margin: auto;
+}
+
+.banner-container h1 {
+  font-size: 80px;
+  margin: 0;
+}
+
+.banner-container p {
+  font-size: 32px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.footer-container {
+  width: 50%;
+  margin: auto;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+
+

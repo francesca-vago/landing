@@ -1,0 +1,14 @@
+.btn-large {
+  color: #fff;
+  background-color: #B12826;
+  padding: 15px 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  display: inline-block;
+  opacity: 0.7;
+
+}
+
+.btn-large:hover {
+  opacity: 1;
+}
